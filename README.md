@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 Welcome to NLP Poetry Analysis
 
 This repository is the final research product for Natural Language Processing research by John Koenig in the Master of Data Science program at George Washington University in Washington, DC. (Research submitted 10DEC2018)
